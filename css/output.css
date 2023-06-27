@@ -176,3 +176,23 @@
     margin-left: 0 !important;
   }
 }
+/* Styles for mobile devices */
+@media (max-width: 576px) {
+  .ml-56 {
+    margin-left: 0 !important;
+  }
+}
+
+/* Styles for tablet devices */
+@media (min-width: 577px) and (max-width: 768px) {
+  .ml-56 {
+    margin-left: 2rem !important;
+  }
+}
+
+/* Styles for desktop devices */
+@media (min-width: 769px) {
+  .ml-56 {
+    margin-left: 3rem !important;
+  }
+}
