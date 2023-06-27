@@ -65,7 +65,7 @@ body {
 */
 
 hr {
-  height: 0;
+  height: 100vh;
   /* 1 */
   color: inherit;
   /* 2 */
